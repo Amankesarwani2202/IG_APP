@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "640339222700",
+    "project_id": "interngrow-dba68",
+    "storage_bucket": "interngrow-dba68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640339222700:android:986e97d316853b5ff1ff09",
+        "android_client_info": {
+          "package_name": "com.example.interngrow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640339222700-nqpu59q1ooqouhvdi50utdb9sbc7ue30.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.interngrow",
+            "certificate_hash": "a916266547e21572775ff1ec0ad1f6aef2443d7e"
+          }
+        },
+        {
+          "client_id": "640339222700-2nqc8ve6nfj1s54m9ckk15klcim7oui4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCquCqijqmPtaiWPAbuazCW0-x3Fy_BaH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640339222700-2nqc8ve6nfj1s54m9ckk15klcim7oui4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
